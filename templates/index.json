@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -23,7 +23,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -79,12 +79,12 @@
     "product_grid_section_VP6Njq": {
       "type": "product-grid-section",
       "settings": {
-        "product_1": "the-3p-fulfilled-snowboard",
-        "product_2": "the-collection-snowboard-oxygen",
-        "product_3": "the-complete-snowboard",
-        "product_4": "the-inventory-not-tracked-snowboard",
-        "product_5": "soursop-1",
-        "product_6": "the-multi-location-snowboard"
+        "product_1": "black-leather-bag",
+        "product_2": "classic-leather-jacket",
+        "product_3": "blue-silk-tuxedo",
+        "product_4": "dark-denim-top",
+        "product_5": "classic-varsity-top",
+        "product_6": "led-high-tops"
       }
     }
   },
