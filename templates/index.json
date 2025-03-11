@@ -11,22 +11,39 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Frame.png",
+        "image_2": "shopify://shop_images/Frame_1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "image_banner_cqetTQ": {
+      "type": "image-banner",
       "blocks": {
-        "heading": {
+        "heading_AM3G9j": {
           "type": "heading",
           "settings": {
             "heading": "<strong>The Gift Guide</strong>",
             "heading_size": "h0"
           }
         },
-        "text_HY99Wa": {
+        "text_hKqLPK": {
           "type": "text",
           "settings": {
             "text": "Discover Joy: Your Ultimate Holiday Gift Destination. Explore our curated selection and find the perfect gifts to delight your loved ones this holiday season.",
             "text_style": "body"
           }
         },
-        "button": {
+        "buttons_UQhGtf": {
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
@@ -39,15 +56,16 @@
         }
       },
       "block_order": [
-        "heading",
-        "text_HY99Wa",
-        "button"
+        "heading_AM3G9j",
+        "text_hKqLPK",
+        "buttons_UQhGtf"
       ],
       "settings": {
         "image": "shopify://shop_images/Frame.png",
+        "image_2": "shopify://shop_images/Frame_1.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
-        "desktop_content_position": "middle-left",
+        "desktop_content_position": "top-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "scheme-1",
@@ -99,6 +117,7 @@
   },
   "order": [
     "image_banner",
+    "image_banner_cqetTQ",
     "featured_collection",
     "product_grid_section_VP6Njq"
   ]
